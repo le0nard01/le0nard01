@@ -6,7 +6,7 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/le0nard01/le0nard01"/> 
- <img src="https://badges.pufler.dev/years/ritik307"/>
+ <img src="https://badges.pufler.dev/years/le0nard01"/>
  <img src="https://badges.pufler.dev/repos/le0nard01"/>
  <img src="https://badges.pufler.dev/commits/yearly/le0nard01" />
 
