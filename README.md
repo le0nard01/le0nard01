@@ -5,10 +5,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/visits/le0nard01/le0nard01"/> 
+ <img src="https://badges.pufler.dev/years/ritik307"/>
+ <img src="https://badges.pufler.dev/repos/le0nard01"/>
+ <img src="https://badges.pufler.dev/commits/yearly/le0nard01" />
 
 </p>
 
@@ -19,20 +19,31 @@
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-1572B6?style=flat-square"/>&nbsp;
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/-RHEL-black?style=flat-square&logo=redhat"/>&nbsp;
+<img src="https://img.shields.io/badge/-OpenStack-red?style=flat-square&logo=openstack"/>
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/-Kubernetes-lightgray?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/-Docker-lightgray?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible"/>&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-00ADD8?style=flat-square&logo=postgresql"/>&nbsp;
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-430098?style=flat-square&logo=github"/>
+<!-- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/> -->
+
+
 </p>
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
