@@ -24,48 +24,49 @@ writing some articles on my Blog that I believe will help others due the difficu
 content.
 </p>  
 <br />
+
+<h2 align="center">Reach me on</h2>
+
+<p align="center">
+ 
+<a href="https://www.linkedin.com/in/leonardooste/">
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardooste/"/>
+</a>
+ 
+<a href="mailto: leonardooste@outlook.com">
+ <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=microsoftoutlook&logoColor=white&link=mailto:leonardooste@outlook.com"/>
+</a>
+
+<a href="https://oste.com.br">
+ <img src="https://img.shields.io/badge/-My Blog-black?style=for-the-badge&logo=duckduckgo&logoColor=green&link=https://oste.com.br"/>
+</a>
+
+<a href="https://t.me/le0nard01">
+ <img src="https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/le0nard01"/>
+</a>
+</p>
+<br />
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=blue"/>
- <img src="https://img.shields.io/badge/-SQL-1572B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/-SQL-1572B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/><br />
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
-<img src="https://img.shields.io/badge/-RHEL-black?style=flat-square&logo=redhat"/>&nbsp;
+<img src="https://img.shields.io/badge/-RHEL-EE0000?style=flat-square&logo=redhat"/><br />
 <img src="https://img.shields.io/badge/-OpenStack-red?style=flat-square&logo=openstack"/>
 <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/-Kubernetes-lightgray?style=flat-square&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/-Docker-lightgray?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible"/>&nbsp;
+<img src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible"/><br />
 <img src="https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-00ADD8?style=flat-square&logo=postgresql"/>&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-00ADD8?style=flat-square&logo=postgresql"/><br />
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-430098?style=flat-square&logo=github"/>
 </p>
-<br />
-<h2 align="center">Reach me on</h2>
 
-<p align="center">
- 
-<a href="https://www.linkedin.com/in/leonardooste/">
- <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardooste/"/>
-</a>
- 
-<a href="mailto: leonardooste@outlook.com">
- <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:leonardooste@outlook.com"/>
-</a>
-
-<a href="https://oste.com.br">
- <img src="https://img.shields.io/badge/-My Blog-black?style=flat-square&logo=duckduckgo&logoColor=green&link=https://oste.com.br"/>
-</a>
-
-<a href="https://t.me/le0nard01">
- <img src="https://img.shields.io/badge/-Telegram-lightblue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/le0nard01"/>
-</a>
- 
-</p>
 <br />
 <h2 align="center">My Github Stats</h2>
 <br>
