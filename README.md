@@ -1,29 +1,37 @@
+<h2 align="center">Leonardo Oste - le0nard01</h2>
 <p align="center">
  
+ <img width="50%" height="50%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+
 
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/le0nard01/le0nard01"/> 
- <img src="https://badges.pufler.dev/years/le0nard01"/>
+ <img src="https://badges.pufler.dev/years/B4nned"/>
  <img src="https://badges.pufler.dev/repos/le0nard01"/>
  <img src="https://badges.pufler.dev/commits/yearly/le0nard01" />
 
 </p>
 
 <p align="center">
-  I'm a 2nd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills🤓.
+  Self-taught, programmer and logic lover. I have been in contact with this world since I was 13 
+years old, when I had my first contact with C. I'm challenge driven, so everything that seems 
+complex is what I most want to learn. I have an excellent creativity, so I'm able to imagine and 
+propose an idea for any type of problem or situation. Currently, my focus of studies is in the area 
+of DevOps/Cloud, and I also have an immense passion for Automation and Linux. I have a habit of 
+writing some articles on my Blog that I believe will help others due the difficulty in find some good 
+content.
 </p>  
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<br />
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQL-1572B6?style=flat-square"/>&nbsp;
+ <img src="https://img.shields.io/badge/-SQL-1572B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
 <img src="https://img.shields.io/badge/-RHEL-black?style=flat-square&logo=redhat"/>&nbsp;
 <img src="https://img.shields.io/badge/-OpenStack-red?style=flat-square&logo=openstack"/>
@@ -35,56 +43,41 @@
 <img src="https://img.shields.io/badge/-PostgreSQL-00ADD8?style=flat-square&logo=postgresql"/>&nbsp;
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-430098?style=flat-square&logo=github"/>
-<!-- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/> -->
-
-
 </p>
-
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<br />
+<h2 align="center">Reach me on</h2>
 
 <p align="center">
-  
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
-</p>
-
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
  
+<a href="https://www.linkedin.com/in/leonardooste/">
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardooste/"/>
+</a>
+ 
+<a href="mailto: leonardooste@outlook.com">
+ <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:leonardooste@outlook.com"/>
+</a>
+
+<a href="https://oste.com.br">
+ <img src="https://img.shields.io/badge/-My Blog-black?style=flat-square&logo=duckduckgo&logoColor=green&link=https://oste.com.br"/>
+</a>
+
+<a href="https://t.me/le0nard01">
+ <img src="https://img.shields.io/badge/-Telegram-lightblue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/le0nard01"/>
+</a>
+ 
+</p>
+<br />
+<h2 align="center">My Github Stats</h2>
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=le0nard01&show_icons=true&theme=merko&line_height=27">
+  
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=le0nard01&hide=html&theme=merko&layout=compact">
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
+</p>
+<p align = "center">MQL5: C++ Lib</p>
+
