@@ -72,7 +72,7 @@ content.
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=le0nard01&show_icons=true&theme=merko&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=le0nard01&show_icons=true&theme=merko&line_height=27&count_private=true&include_all_commits=true">
   
 </p>
 
